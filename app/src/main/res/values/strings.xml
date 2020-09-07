@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Soduku Solver Java</string>
+    <string name="cordinates">cordinates</string>
+    <string name="solve">Solve</string>
+    <string name="down">down</string>
+    <string name="upp">Upp</string>
+    <string name="right">Right</string>
+    <string name="left">Left</string>
+    <string name="soduku_solver">Soduku Solver</string>
+    <string name="testview">TestView</string>
+</resources>
